@@ -5,8 +5,9 @@
   - 🎓 B.S. in Computer Science at [University of Minnesota](https://twin-cities.umn.edu/)
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junyeolryoo/)
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ryoojunyeol@gmail.com)
+  <!-- - <img src="https://github.com/walkxcode/dashboard-icons/blob/main/png/c.png" width="50" height="50"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/png/cpp.png" width="50" height="50"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/png/java.png" width="50" height="50">
 
-![](https://leetcard.jacoblin.cool/junyeolryoo?ext=heatmap)
+<!-- ![](https://leetcard.jacoblin.cool/junyeolryoo?ext=heatmap)
 
 <!--
 **JunYeolRyoo/JunYeolRyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
