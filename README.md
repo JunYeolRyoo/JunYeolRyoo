@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi there 👋, I'm <b>Jun Yeol Ryoo</b></h1>
 
+## Personal Info
+  - 🎓: B.S. in Computer Science at [University of Minnesota](https://twin-cities.umn.edu/)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junyeolryoo/)
+  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ryoojunyeol@gmail.com)
+
 ![](https://leetcard.jacoblin.cool/junyeolryoo?ext=heatmap)
 
 <!--
