@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm <b>Jun Yeol Ryoo</b></h1>
+<h1 align="left">Hi there 👋, I'm <b>Jun Yeol Ryoo</b></h1>
 
 ## Personal Info
   - 🎓 B.S. in Computer Science at [University of Minnesota](https://twin-cities.umn.edu/)
