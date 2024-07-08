@@ -7,7 +7,9 @@
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ryoojunyeol@gmail.com)
 
 
- ![](https://leetcard.jacoblin.cool/junyeolryoo?ext=heatmap)
+<p align="center">
+  <image src=https://leetcard.jacoblin.cool/junyeolryoo?ext=heatmap></image>
+</p>
 
 <!--
 **JunYeolRyoo/JunYeolRyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
