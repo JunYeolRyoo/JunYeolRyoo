@@ -5,7 +5,6 @@
   - 🎓 B.S. in Computer Science at [University of Minnesota](https://twin-cities.umn.edu/)
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junyeolryoo/)
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ryoojunyeol@gmail.com)
-<br>
 <!--
 <p>
   <image src=https://leetcard.jacoblin.cool/junyeolryoo?ext=heatmap></image>
