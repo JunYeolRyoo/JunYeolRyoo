@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <b>Jun Yeol Ryoo</b></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=3000&pause=1000&color=5652F7FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=I+like+to+code;I+like+to+learn;I+like+challenges" alt="Typing SVG" /></a>
+  <a><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=3000&pause=1000&color=5652F7FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=I+like+to+code;I+like+to+learn;I+like+challenges" alt="Typing SVG" /></a>
 </p>
 
 ## Personal Info
